@@ -1,1 +1,5 @@
-.vs
+.vs/
+Library/
+Logs/
+obj/
+Packages/
